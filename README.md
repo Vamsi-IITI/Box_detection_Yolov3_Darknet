@@ -60,4 +60,5 @@ catkin_make -DCMAKE_BUILD_TYPE=Release
 > ```
 > Watch the predictions of model! (**Task 3 - Object Detection**)
 > 
-> ![predictions](https://github.com/Vamsi-IITI/Object_follower_UR5/assets/92263050/5b41d583-c8f7-470b-807a-4629b3b6628e)
+> ![predictions](https://github.com/Vamsi-IITI/Box_detection_Yolov3_Darknet/assets/92263050/f87f62f0-8270-41fc-8582-8a28dbb7a4c8)
+
